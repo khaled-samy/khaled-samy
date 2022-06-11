@@ -1,6 +1,6 @@
 ![MasterHead](https://media.istockphoto.com/vectors/computer-programming-word-concepts-banner-vector-id1173372721)
 <h1 align="center">Hi 👋, I'm Khaled Al-Khudary</h1>
-<h3 align="center">Full stack junior web developer from Palastine</h3>
+<h3 align="center">Full stack junior web developer from Palestine</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761133081231a6f085de270d81e4b111542488a3f6f6&rid=giphy.gif&ct=g" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-samy&label=Profile%20views&color=0e75b6&style=flat" alt="khaled-samy" /> </p>
